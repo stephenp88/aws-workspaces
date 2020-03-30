@@ -1,0 +1,33 @@
+{
+    "metrics": [
+        [ "AWS/WorkSpaces", "UserConnected", "DirectoryId", "d-90677033c9" ],
+        [ "...", "d-90677036e8" ],
+        [ "...", "d-906770ef21" ],
+        [ "...", "d-906770ef9c" ],
+        [ "...", "d-9067714e9d" ]
+    ],
+    "view": "timeSeries",
+    "stacked": false,
+    "region": "us-east-1",
+    "stat": "Sum",
+    "period": 300
+}
+
+
+
+{
+    "metrics": [
+        [ "AWS/WorkSpaces", "UserConnected", "DirectoryId", "d-90677033c9" ],
+        [ "...", "d-90677036e8" ],
+        [ "...", "d-906770ef21" ],
+        [ "...", "d-906770ef9c" ],
+        [ "...", "d-9067714e9d" ],
+        [ "...", "d-90677153cf" ]
+    ],
+    "view": "timeSeries",
+    "stacked": false,
+    "region": "us-east-1",
+    "stat": "Sum",
+    "period": 300
+}
+
